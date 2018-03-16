@@ -1,0 +1,71 @@
+body {
+  background-color: #fff;
+  margin: 0 10em; 
+  /*  font-family: 'Oswald', sans-serif; */
+
+}
+
+header nav p .delicious {
+  font-family: ‘Yellowtail’, cursive;
+  font-size: 45px;
+  text-shadow: 2px 2px 7px rgb(39, 39, 36);
+  text-align: center;
+}
+
+body h1 {
+  font-family: 'Oswald', sans-serif;
+}
+
+section h2 {
+  color: rgb(32, 32, 32);
+  font-size: 1em;
+  text-align: left;
+  text-indent: 3em;
+  width: 900px;
+}
+
+
+p .Food-Blog {
+  color: lightgrey
+}
+
+div .greyline{
+  color: lightgrey
+}
+
+div .Posted on { 
+  color: lightgrey
+}
+
+p .Print {
+  color: lightgrey
+}
+
+img .Pizza-Pic {
+  width: 100px;
+}
+
+header nav img .social-icon {
+  width: 30em;
+}
+
+section h2 {
+  font-size: 1em;
+}
+
+
+section .ingredient-list ul .ingredients li {
+  background-image: url('img\list-bg.png');
+  content: "&#9633";
+  margin-right:5px;
+
+/*  background-image: url('C:\Users\Giff\codefellows\201\Lab10-Wireframe-work\img\list-bg.png'); 
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
+
+
+section .ingredient-list ul .strike li {
+  content: "&#9745";
+  margin-right:5px;
+}
