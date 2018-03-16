@@ -69,3 +69,23 @@ section .ingredient-list ul .strike li {
   content: "&#9745";
   margin-right:5px;
 }
+
+button {
+  float: right;
+}
+
+footer div.greyline img .small-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+footer p.Copyright {
+  text-align:center;
+  /* \00B7 in CSS */
+}
+
+footer p.Credits {
+  text-align:center;
+}
